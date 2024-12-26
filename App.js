@@ -73,7 +73,7 @@ class App extends Component {
 
                 <TouchableOpacity style={styles.botao} onPress={this.quebraBiscoito}>
                     <View style={styles.btnArea}>
-                        <Text style={styles.btnTexto}> Quebrar Biscoitoo </Text>
+                        <Text style={styles.btnTexto}> Quebrar Biscoito </Text>
                     </View>
                 </TouchableOpacity>
 
